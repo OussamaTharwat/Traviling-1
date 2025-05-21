@@ -1,0 +1,12 @@
+{
+    "AboutUs": true,
+    "Auth": true,
+    "FQ": true,
+    "ContactUs": true,
+    "Role": true,
+    "UploadFile": true,
+    "Category": true,
+    "Footer": true,
+    "Tour": true,
+    "Rent": true
+}

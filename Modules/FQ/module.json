@@ -1,0 +1,11 @@
+{
+    "name": "FQ",
+    "alias": "fq",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\FQ\\Providers\\FQServiceProvider"
+    ],
+    "files": []
+}
